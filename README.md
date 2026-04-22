@@ -1,4 +1,4 @@
-# 🚀 Backend Developer | Mostafa Raihan (@raihanstack)
+# 🚀 Backend Developer | Mostafa Raihan (raihanstack)
 
 <p align="center">
   <img src="https://github.com/raihanstack/raihanstack/blob/main/Cover.png" alt="Mostafa Raihan GitHub Cover Banner" width="100%" />
